@@ -4,6 +4,6 @@
  
  The project consists of 3 homeworks which topics are respectively:
 
- - Supervised Deep Learning
- - Unsupervised Deep Learning
- - Deep Reinforcement Learning
+ 1) Supervised Deep Learning
+ 2) Unsupervised Deep Learning
+ 3) Deep Reinforcement Learning
