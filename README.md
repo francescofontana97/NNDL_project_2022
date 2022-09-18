@@ -1,4 +1,4 @@
-# NNDL_project_2022
+# Neural Network and Deep Leaning
 
  Homeworks for the final grade of the course ***Neural Network and Deep Learning*** held by prof. A.Testolin during AY 2021/2022.
  
